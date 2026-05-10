@@ -1,0 +1,24 @@
+{
+  "id": "com.romcomcatalog.bestofalltime",
+  "version": "1.0.1",
+  "name": "Top Romcoms",
+  "description": "A curated catalog of the best romantic comedies of all time.",
+  "resources": ["catalog"],
+  "types": ["movie"],
+"catalogs": [
+  {
+    "type": "movie",
+    "id": "classics-romcoms",
+    "name": "Romcom Classics"
+  },
+  {
+    "type": "movie",
+    "id": "modern-romcoms",
+    "name": "Modern Romcoms"
+  },
+  {
+    "type": "movie",
+    "id": "international-romcoms",
+    "name": "International Romcoms"
+  }
+]
