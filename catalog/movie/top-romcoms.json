@@ -1,1 +1,22 @@
-test
+{
+  "metas": [
+    {
+      "id": "tt0098635",
+      "type": "movie",
+      "name": "When Harry Met Sally...",
+      "poster": "https://images.metahub.space/poster/medium/tt0098635/img"
+    },
+    {
+      "id": "tt0125439",
+      "type": "movie",
+      "name": "Notting Hill",
+      "poster": "https://images.metahub.space/poster/medium/tt0125439/img"
+    },
+    {
+      "id": "tt0243155",
+      "type": "movie",
+      "name": "Bridget Jones's Diary",
+      "poster": "https://images.metahub.space/poster/medium/tt0243155/img"
+    }
+  ]
+}
