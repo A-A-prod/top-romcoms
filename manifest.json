@@ -1,6 +1,6 @@
 {
   "id": "com.romcomcatalog.bestofalltime",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "name": "Top Romcoms",
   "description": "Curated romantic comedy catalogs.",
   "resources": ["catalog"],
